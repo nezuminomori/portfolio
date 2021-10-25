@@ -149,32 +149,32 @@ export default {
         {
           title: "frontend...",
           iconList: [
-            "devicon-html5-plain",
-            "devicon-css3-plain",
+            "devicon-html5-plain-wordmark",
+            "devicon-css3-plain-wordmark",
             "devicon-sass-original",
-            "devicon-jquery-plain",
-            "devicon-bootstrap-plain",
-            "devicon-vuejs-plain",
+            "devicon-jquery-plain-wordmark",
+            "devicon-bootstrap-plain-wordmark",
+            "devicon-vuejs-plain-wordmark",
           ],
         },
         { title: "backend...", iconList: ["devicon-php-plain"] },
         {
           title: "tool...",
           iconList: [
-            "devicon-github-original",
-            "devicon-sourcetree-original",
-            "devicon-vscode-plain",
-            "devicon-slack-plain",
-            "devicon-xd-plain",
-            "devicon-jira-plain",
+            "devicon-git-plain-wordmark",
+            "devicon-github-original-wordmark",
+            "devicon-sourcetree-original-wordmark",
+            "devicon-vscode-plain-wordmark",
+            "devicon-slack-plain-wordmark",
+            "devicon-xd-line",
+            "devicon-jira-plain-wordmark",
           ],
         },
         {
           title: "Studying!",
           iconList: [
-            "devicon-vscode-plain",
-            "devicon-firebase-plain",
-            "devicon-laravel-plain",
+            "devicon-firebase-plain-wordmark",
+            "devicon-laravel-plain-wordmark",
           ],
         },
       ],
@@ -263,7 +263,7 @@ $font-eg: "Quicksand", sans-serif;
 
   .contents-title-wrapper {
     text-align: center;
-    padding: 60px 0 120px;
+    padding: 80px 0 150px;
   }
 
   .contents-title {
